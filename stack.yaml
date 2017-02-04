@@ -1,0 +1,10 @@
+resolver: lts-7.18
+packages:
+- '.'
+extra-deps:
+  - props-0.1.2
+  - quickcheck-regex-0.0.3
+  - quickcheck-special-0.1.0.2
+  - test-invariant-0.4.5.0
+flags: {}
+extra-package-dbs: []
